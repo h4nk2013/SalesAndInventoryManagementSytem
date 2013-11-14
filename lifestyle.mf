@@ -1,0 +1,4 @@
+Menifest-Version: 1.0
+Main-Class: Lifestyle/gui/Main
+Class-Path: rmall.jar
+Java-Bean: true

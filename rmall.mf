@@ -1,0 +1,2 @@
+Menifest-Version: 1.0
+Java-Bean: true
